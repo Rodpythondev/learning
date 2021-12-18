@@ -1,3 +1,4 @@
+# multiplicacao
 numero = int(input("informe um numero entre 1 e 10: "))
 
 while numero < 1 or numero >10:
