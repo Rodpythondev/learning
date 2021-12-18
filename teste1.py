@@ -7,4 +7,4 @@ while numero < 1 or numero >10:
 print("tabuada de {0}".format(numero))
 for n in range (1, 11):
     total = numero * n
-    print(f'{numero} * {n} = {total}')
+    print(f'{numero} x {n} = {total}')
